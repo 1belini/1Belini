@@ -3,7 +3,7 @@
 - From 🇧🇷 <br>
 - 💻 Linux user<br>
 - 🤖 Interested in ML and AI<br>
-- 📚 Learnign Python and Rust<br>
+- 📚 Learning Python and Rust<br>
 
    
 
