@@ -1,9 +1,9 @@
-<b>e to the free world!</b><br>
+<b>Welcome to the free world!</b><br>
 <hr>
-- From 🇧🇷 
-- 💻 Linux user
-- 🤖 Interested in ML and AI
-- 📚 Learnign Python and Rust
+- From 🇧🇷 <br>
+- 💻 Linux user<br>
+- 🤖 Interested in ML and AI<br>
+- 📚 Learnign Python and Rust<br>
 
 ⣿⣿⣿⣿⣿⣿⣿⣿⡿⠿⠛⠛⠛⠋⠉⠈⠉⠉⠉⠉⠛⠻⢿⣿⣿⣿⣿⣿⣿⣿<br>
 ⣿⣿⣿⣿⣿⡿⠋⠁⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠉⠛⢿⣿⣿⣿⣿<br>
