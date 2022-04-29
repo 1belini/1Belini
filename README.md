@@ -2,9 +2,6 @@
 <hr>
 - From 🇧🇷 <br>
 - 💻 Linux user<br>
-- 🤖 Interested in ML and AI<br>
-- 📚 Learning Python and C <br>
-
-   
+- 📚 Learning Python and Rust <br>
 
 🇺🇸🇧🇷 
