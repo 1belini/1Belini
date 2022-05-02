@@ -2,6 +2,6 @@
 <hr>
 - From 🇧🇷 <br>
 - 💻 Linux user<br>
-- 📚 Learning Python and Rust <br>
+- 📚 Learning Python and GO <br>
 
 🇺🇸🇧🇷 
