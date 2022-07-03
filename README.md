@@ -2,7 +2,7 @@
 <hr>
 - From 🇧🇷 <br>
 - 💻 Linux user<br>
-- 👨‍💻 Dev<br>
+- 👨‍💻 Python and C Dev<br>
 
 
 🇺🇸🇧🇷 
