@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=1belini&label=Profile%20views&color=0e75b6&style=flat" alt="1belini" /> </p>
 
-- 🌱 I’m currently learning **Rust, C and DevOps tools**
+- 🌱 I’m currently learning **Rust, C, Python and DevOps tools**
 
 - 📫 How to reach me **beliniemmanuel@gmail.com**
 
