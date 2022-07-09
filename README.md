@@ -1,6 +1,6 @@
 # 💫 About Me:
 🔹 👨‍💻 Linux user and Open Source enthusiast<br><br>🔹 👾 Gamer and Developer <br><br>🔹 📫 How to reach me **beliniemmanuel@gmail.com**<br>
-
+<a href="https://www.linux.org/" rel="nofollow"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40" style="max-width: 100%;"></a>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=1belini&label=Profile%20views&color=0e75b6&style=flat" alt="1belini" /> </p>
 
 
