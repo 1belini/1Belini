@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=1belini&label=Profile%20views&color=0e75b6&style=flat" alt="1belini" /> </p>
 
-- 🌱 I’m currently learning **PHP and Elixir**
+- 🌱 I’m currently learning **PHP, GO and Haskell**
 - 👨‍💻 Linux user and Open Source enthusiast
 - 📫 How to reach me **beliniemmanuel@gmail.com**
 
@@ -15,4 +15,4 @@
 </p>
 
 # 💻 Tech Stack:
-![Elixir](https://img.shields.io/badge/elixir-%234B275F.svg?style=for-the-badge&logo=elixir&logoColor=white) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) <!-- ![Clojure](https://img.shields.io/badge/Clojure-%23Clojure.svg?style=for-the-badge&logo=Clojure&logoColor=Clojure) -->
+![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![Haskell](https://img.shields.io/badge/Haskell-5e5086?style=for-the-badge&logo=haskell&logoColor=white) ![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white)
